@@ -34,7 +34,7 @@ function new_image()
 			top:ball_y,
 			left:ball_x
 		});
-		canvas.add(hole_obj);
+		canvas.add(ball_obj);
 	    });
 }
 
