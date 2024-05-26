@@ -1,6 +1,6 @@
 var canvas= new fabric.Canvas("myCanvas");
-ball_x=10;
-ball_y=10;
+ball_x=350;
+ball_y=200;
 hole_y=400;
 hole_x=800;
 
